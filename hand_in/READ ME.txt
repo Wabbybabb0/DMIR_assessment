@@ -1,0 +1,13 @@
+**该文件包括理论题文件、实操题文件和READ ME：**
+
+### 1.实操题文件
+
+* note文件：存放着[飞书网页](https://oa7vrw2neqh.feishu.cn/docx/CB0WdZbkioi90JxOFTVczXfmngd)中插入的pdf，其实是在学习一个新的概念时做的笔记，主要是记录计算和公式推导
+* pre_data文件：存放着预处理后的1001份文本
+* LDA.html：是经过LDA模型处理后的可视化网页，有10个主题，每个主题下有30个关键词
+* practice1.ipynb：此次实操题的代码
+* tf-idf.xlsx：存放经过TF-IDF模型处理后的每篇文章的关键词
+
+### 2.理论题文件
+
+* 就一个ppt
